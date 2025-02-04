@@ -5,5 +5,5 @@ import (
 )
 
 func Test(s string) {
-	fmt.Printf("%s [V1]\n", s)
+	fmt.Printf("%s [V0.1.0]\n", s)
 }
